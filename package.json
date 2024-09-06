@@ -1,0 +1,15 @@
+{
+  "name": "p-nrm",
+  "version": "1.0.1",
+  "main": "index.js",
+  "bin": {
+    "p-nrm": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "a npm tool"
+}
